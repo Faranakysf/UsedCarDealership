@@ -3,7 +3,7 @@
 This repository contains a Jupyter notebook analyzing factors driving used car prices using a dataset of 426,880 listings. The project follows the CRISP-DM framework and achieves an R2 score of 0.82 with key drivers identified as 'year', 'odometer', and 'Toyota' manufacturer.
 
 ## Notebook
-- [UsedCarPriceAnalysis.ipynb](https://github.com/Faranakysf/UsedCarDealership/main/Car_Dealership Case.ipynb)
+- [UsedCarPriceAnalysis.ipynb](https://github.com/Faranakysf/UsedCarDealership/blob/ef4951897eea16222b222bf75ade49d68a9f37bb/Car_Dealershp%20Case.ipynb)
 
 ## Files and Structure
 - `UsedCarPriceAnalysis.ipynb`: Main analysis notebook with modeling and visualizations.
