@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook analyzing factors driving used car p
 ## Files and Structure
 - `UsedCarPriceAnalysis.ipynb`: Main analysis notebook with modeling and visualizations.
 - `images/`: Directory containing generated plots (e.g., `PriceYearDistribution.png`, `PriceManufacturDistribution.png`).
-- `data/vehicles.csv`: Dataset of used car listings.
+- `data/vehicles.csv`: Reducted Data of used car listings. Note: The reducted data has been used because I was not able to upload the large data. The original vehicles.csv (28.45MB with 426,880 rows) is sampled to 10% (42,688 rows), reducing the size to ~2.84MB, well under 25MB which allowed size for upload. Features Preserved: All 18 columns from the original dataset are retained, ensuring compatibility with the analysis.
 
 ## Results
 - **Model Performance**: R2: 0.82, RMSE: $5,123 (on a 10% sample).
